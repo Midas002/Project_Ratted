@@ -25,4 +25,4 @@ mesh = SubResource("CapsuleMesh_l8h54")
 skeleton = NodePath("")
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(0.951057, -0.029618, 0.307594, 0, 0.995396, 0.0958457, -0.309017, -0.0911547, 0.946678, 1.025, 0.915, 1.63)
+transform = Transform3D(-0.952964, 0.0290494, -0.30169, 0.000338553, 0.995498, 0.0947861, 0.303085, 0.0902256, -0.948683, -0.437388, 0.983397, -1.99706)
